@@ -1,1 +1,2 @@
 This file is created on the local repo in git bash
+2nd line added in the local repo B1 in git bash
